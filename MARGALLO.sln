@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MARGALLO", "MARGALLO\MARGALLO.vbproj", "{90E7A67D-7133-41EF-9725-53A3D5066657}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{998E79A1-2616-409C-A3C1-DEC76F2C798A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E7A67D-7133-41EF-9725-53A3D5066657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E7A67D-7133-41EF-9725-53A3D5066657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E7A67D-7133-41EF-9725-53A3D5066657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E7A67D-7133-41EF-9725-53A3D5066657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998E79A1-2616-409C-A3C1-DEC76F2C798A}.Debug|Any CPU.ActiveCfg = Debug
+		{998E79A1-2616-409C-A3C1-DEC76F2C798A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
