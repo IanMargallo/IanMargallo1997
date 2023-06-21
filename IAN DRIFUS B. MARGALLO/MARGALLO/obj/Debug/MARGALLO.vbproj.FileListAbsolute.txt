@@ -1,0 +1,12 @@
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Debug\MARGALLO.exe.config
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Debug\MARGALLO.exe
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Debug\MARGALLO.pdb
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Debug\MARGALLO.xml
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.vbprojResolveAssemblyReference.cache
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.Form1.resources
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.Resources.resources
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.vbproj.GenerateResource.Cache
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.exe
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.xml
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.pdb
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Debug\MARGALLO.Form2.resources

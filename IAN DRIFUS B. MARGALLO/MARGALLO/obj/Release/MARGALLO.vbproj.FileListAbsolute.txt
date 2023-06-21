@@ -1,0 +1,15 @@
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Release\MARGALLO.exe.config
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Release\MARGALLO.exe
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Release\MARGALLO.pdb
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\bin\Release\MARGALLO.xml
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Release\MARGALLO.Form1.resources
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Release\MARGALLO.Form2.resources
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Release\MARGALLO.Resources.resources
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Release\MARGALLO.vbproj.GenerateResource.Cache
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Release\MARGALLO.exe
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Release\MARGALLO.xml
+c:\users\ianma\documents\visual studio 2015\Projects\MARGALLO\MARGALLO\obj\Release\MARGALLO.pdb
+C:\Users\ianma\Documents\Visual Studio 2015\Projects\IAN DRIFUS B. MARGALLO\MARGALLO\bin\Release\MARGALLO.exe.config
+C:\Users\ianma\Documents\Visual Studio 2015\Projects\IAN DRIFUS B. MARGALLO\MARGALLO\obj\Release\MARGALLO.exe
+C:\Users\ianma\Documents\Visual Studio 2015\Projects\IAN DRIFUS B. MARGALLO\MARGALLO\obj\Release\MARGALLO.xml
+C:\Users\ianma\Documents\Visual Studio 2015\Projects\IAN DRIFUS B. MARGALLO\MARGALLO\obj\Release\MARGALLO.pdb
